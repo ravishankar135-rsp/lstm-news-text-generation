@@ -1,0 +1,6 @@
+# Core dependencies for the LSTM News Text Generation notebook
+# Install in Google Colab or a compatible Python environment.
+tensorflow>=2.15,<3.0
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
